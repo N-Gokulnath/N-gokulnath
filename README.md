@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    ![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)
+![MasterHead](https://gaper.io/wp-content/uploads/2022/02/mern-stack.webp)
 <h1 align="center">Hi, I'm Gokulnath N</h1>
 <h3 align="center">A passionate Mern stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
@@ -43,6 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n-gokulnath&show_icons=true&locale=en" alt="n-gokulnath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-gokulnath&" alt="n-gokulnath" /></p>
-
-</body>
-</html>
