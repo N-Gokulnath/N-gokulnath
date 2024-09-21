@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="n-gokulnath" /> </p>
 
-- 🌱 I’m currently learning **react native,express**
+- 🌱 I’m currently learning **javascript**
 
 - 💬 Ask me about **Mern stack**
 
